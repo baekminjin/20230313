@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "new chat"
+rootProject.name = "Calling"
 include ':app'
